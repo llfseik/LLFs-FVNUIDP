@@ -1,7 +1,7 @@
 本UI模板作者：烈林凤
 联系方式：
 <推荐>【哔哩哔哩】https://space.bilibili.com/378904108
-<推荐>【github】https://github.com/llfseik
+<推荐>【Github】https://github.com/llfseik
 <常用>【CnGal资料站】https://www.cngal.org/entries/index/6338
 <常用>【Ren'Py中文空间】https://www.renpy.cn/home.php?mod=space&uid=5904
 
