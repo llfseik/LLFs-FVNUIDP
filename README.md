@@ -11,6 +11,7 @@
 非常感谢使用本仓库内的视觉小说UI模板！\
 所有携带的字体文件均为可免费商业类型，可放心使用！\
 仓库文件结构包含预览图、素材切片、文字注释图、组件注释图、使用须知、版本日志等文件\
+所有模板名称前缀为创建项目日期\
 通用仓库结构：
 
 ```
@@ -77,7 +78,7 @@ LLFs-FVNUIDP
 ### [[251207]青春校园类型](https://github.com/llfseik/LLFs-FVNUIDP/tree/main/%5B251207%5D%E9%9D%92%E6%98%A5%E6%A0%A1%E5%9B%AD%E7%B1%BB%E5%9E%8B)
 > 推荐类型：青春、校园、恋爱
 
-![预览图_标题](https://github.com/llfseik/LLFs-FVNUIDP/blob/9a8f30ed6be0ec3b97665e7a1e49098afd48b384/%5B251207%5D%E9%9D%92%E6%98%A5%E6%A0%A1%E5%9B%AD%E7%B1%BB%E5%9E%8B/%E9%A2%84%E8%A7%88%E5%9B%BE/%E9%9D%92%E6%98%A5%E6%A0%A1%E5%9B%AD%E7%B1%BB%E5%9E%8B%20%E6%A0%87%E9%A2%98%2B%E5%AF%B9%E8%AF%9Dadv%2B%E5%AF%B9%E8%AF%9Dnvl%2B%E5%8E%86%E5%8F%B2%2B%E5%AD%98%E6%A1%A3%2B%E8%AF%BB%E6%A1%A3_%E7%94%BB%E6%9D%BF%201.jpg)
+![预览图_标题](https://github.com/llfseik/LLFs-FVNUIDP/blob/9a8f30ed6be0ec3b97665e7a1e49098afd48b384/%5B251207%5D%E9%9D%92%E6%98%A5%E6%A0%A1%E5%9B%AD%E7%B1%BB%E5%9E%8B/%E9%A2%84%E8%A7%88%E5%9B%BE/%E9%9D%92%E6%98%A5%E6%A0%A1%E5%9B%AD%E7%B1%BB%E5%9E%8B%20%E6%A0%87%E9%A2%98%2B%E5%AF%B9%E8%AF%9Dadv%2B%E5%AF%B9%E8%AF%9Dnvl%2B%E5%8E%86%E5%8F%B2%2B%E5%AD%98%E6%A1%A3%2B%E8%AF%BB%E6%A1%A3_%E7%94%BB%E6%9D%BF%201.jpg '预览图_标题')
 
 
 ## 常见问题：
