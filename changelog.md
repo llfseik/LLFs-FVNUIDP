@@ -6,3 +6,7 @@
 - 新建README.md文件
 - 新建changelog.md文件
 - 发布Releases：[[251207]青春校园类型](https://github.com/llfseik/LLFs-FVNUIDP/releases/tag/%E5%85%8D%E8%B4%B9UI%E6%A8%A1%E6%9D%BF)
+
+## 2026.01.19
+- 更新“通用使用条约”
+- 更新“其他下载链接”：蓝奏云、百度网盘

@@ -74,6 +74,14 @@ LLFs-FVNUIDP
 - 本模板为免费模板！切勿进行***售卖与购买***！
 - 在进行使用与分享时务必保留模板水印！（水印包括：预览图水印、“_llf”素材名称后缀水印等）
 
+## 其他下载链接
+> 蓝奏云：
+https://wwbex.lanzoul.com/b018831g5e
+密码:llfsui\
+> 百度网盘：
+https://pan.baidu.com/s/1cBewKiWDqCG6xSiGrrrzuA
+提取码: llfs 
+
 ## 已发布模板
 ### [[251207]青春校园类型](https://github.com/llfseik/LLFs-FVNUIDP/tree/main/%5B251207%5D%E9%9D%92%E6%98%A5%E6%A0%A1%E5%9B%AD%E7%B1%BB%E5%9E%8B)
 > 推荐类型：青春、校园、恋爱
