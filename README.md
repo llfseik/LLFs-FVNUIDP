@@ -84,7 +84,7 @@ LLFs-FVNUIDP
 ![预览图_设置](https://github.com/llfseik/LLFs-FVNUIDP/blob/0122218fcd08d187df4ccf71c56e7dce0fd300ee/%5B251207%5D%E9%9D%92%E6%98%A5%E6%A0%A1%E5%9B%AD%E7%B1%BB%E5%9E%8B/%E9%A2%84%E8%A7%88%E5%9B%BE/%E9%9D%92%E6%98%A5%E6%A0%A1%E5%9B%AD%E7%B1%BB%E5%9E%8B%20%E9%89%B4%E8%B5%8F%2B%E8%AE%BE%E7%BD%AE%2B%E5%85%B3%E4%BA%8E%2B%E7%A1%AE%E8%AE%A4-02.jpg)
 
 ## 常见问题：
-### Q.以后模板还会更新吗？
+### Q.已发布的模板以后还会更新吗？
 A.不会再添加新组件、新功能，如果素材出现了错误（如素材名称标错、注释图标志错误等）都会及时勘误后更新的，若你在使用过程中发现了问题，欢迎私信联系我！
 
 ### Q.以后还会推出新模板吗？
