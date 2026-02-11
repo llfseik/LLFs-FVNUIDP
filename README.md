@@ -1,3 +1,5 @@
+![cover](https://github.com/llfseik/LLFs-FVNUIDP/blob/223f33ab57a0bd11cc17f159c35f7ad38f00a50c/Cover.jpg)
+
 # Lie Ling Feng's Free Visual Novel UI Design Project
 - 项目名称：LLFs-FVNUIDP
 - 项目简介：这是属于烈林凤的的免费视觉小说UI设计项目！
