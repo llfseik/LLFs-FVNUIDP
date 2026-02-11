@@ -101,11 +101,11 @@ LLFs-FVNUIDP
 https://wwbex.lanzoul.com/b018831g5e
 密码:llfsui\
 > 百度网盘：
-https://pan.baidu.com/s/1cBewKiWDqCG6xSiGrrrzuA
+https://pan.baidu.com/s/1y8gL0JCN43NivfDavu_8Gg
 提取码: llfs 
 
 ## 已发布模板 Published template
-### [[251207]青春校园类型 - Youth campus genre](https://github.com/llfseik/LLFs-FVNUIDP/tree/main/%5B251207%5D%E9%9D%92%E6%98%A5%E6%A0%A1%E5%9B%AD%E7%B1%BB%E5%9E%8B)
+### [[251207]青春校园类型 - Youth campus genre](https://github.com/llfseik/LLFs-FVNUIDP/releases/tag/251207)
 > 推荐类型：青春、校园、恋爱  
 
 > Recommended genres: Youth, School, Romance
