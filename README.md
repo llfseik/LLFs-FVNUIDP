@@ -97,9 +97,6 @@ LLFs-FVNUIDP
 - Be sure to keep the template watermark when using or sharing! (Watermarks include: preview image watermark, '_llf' suffix watermark on material names, etc.)
 
 ## 其他下载链接 Other download links
-> 蓝奏云：
-https://wwbex.lanzoul.com/b018831g5e
-密码:llfsui\
 > 百度网盘：
 https://pan.baidu.com/s/1y8gL0JCN43NivfDavu_8Gg
 提取码: llfs 
