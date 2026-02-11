@@ -1,0 +1,92 @@
+大部分英文场景均采用机器翻译，可能失之偏颇，请以中文原文为准，感谢理解！
+Most English scenarios use machine translation and may be somewhat inaccurate. Please refer to the original Chinese text. Thank you for your understanding!
+
+#################################################
+
+本UI模板作者：烈林凤
+
+联系方式：
+<推荐>【哔哩哔哩】https://space.bilibili.com/378904108
+<推荐>【Github】https://github.com/llfseik
+<常用>【CnGal资料站】https://www.cngal.org/entries/index/6338
+<常用>【Ren'Py中文空间】https://www.renpy.cn/home.php?mod=space&uid=5904
+
+非常感谢使用本视觉小说UI模板！
+推荐使用类型：青春、校园、恋爱
+推荐配合预览图、注释图使用！
+所有字体文件均为可免费商业类型，可放心使用！
+
+模板使用条约：
+若需标注UI设计/平面设计作者，请署名“烈林凤”。
+切勿将本模板中的任何素材用于非本模板用途！
+切勿修改使用本模板中的任何素材！
+本模板为免费模板！切勿进行售卖与购买！
+在进行使用与分享时务必保留模板水印！
+（水印包括：预览图水印、“_llf”素材名称后缀水印等）
+
+常见问题：
+Q.已发布的模板以后还会更新吗？
+A.不会再添加新组件、新功能，如果素材出现了错误（如素材名称标错、注释图标志错误等）都会及时勘误后更新的，若你在使用过程中发现了问题，欢迎私信联系我！
+
+Q.以后还会推出新模板吗？
+A.会的，但是目前没有固定的更新频率，下次可能是一个月，也可能是半年后，这都无法确定，欢迎关注我的账号了解最新模板进度！
+
+Q.以后本模板会更新使用条约吗？
+A.会的，可能会根据实际需求更新使用模板，可关注我的账号了解最新的使用条约！
+
+Q.可以提供模板的原文件吗？
+A.很抱歉，不可以。
+
+Q.如果我希望本模板成为我的专属UI，可以买下它吗？
+A.很抱歉，已公开的UI模板无法再买断，但你可以找我付费对此模板进行定制修改/拓展，使其成为全新的，作为买断使用的UI。
+
+Q.我在某平台上购买了本UI模板/我在某平台上看到了本UI模板正在售卖。
+A.如果你购买了本UI模板，请立刻差评并退款！本UI模板为免费模板，不会在任何渠道上售卖！如果你是在某平台看到了本UI模板正在售卖，请立即举报，并私信告诉我，非常感谢！
+
+Q.可以找你定制UI吗？
+A.随时欢迎。
+
+#################################################
+
+This UI template is by: Lie Linfeng
+
+Contact Information:
+<Recommended>【Bilibili】https://space.bilibili.com/378904108
+<Recommended>【Github】https://github.com/llfseik
+<Commonly Used>【CnGal Database】https://www.cngal.org/entries/index/6338
+<Commonly Used>【Ren'Py Chinese Community】https://www.renpy.cn/home.php?mod=space&uid=5904
+
+Thank you very much for using this visual novel UI template!  
+Recommended genres: Youth, School, Romance  
+It is recommended to use with preview images and annotated images!  
+All font files are free for commercial use, so you can use them with confidence!
+
+Template Usage Agreement: 
+If you need to credit the UI design/graphic design author, please attribute to "Liè Lín Fèng".
+Do not use any materials from this template for purposes other than this template!
+Do not modify any materials from this template!
+This template is free! Do not sell or purchase it!
+When using and sharing, be sure to retain the template watermark!
+(The watermark includes: preview image watermark, the “_llf” suffix watermark in material names, etc.)
+
+Frequently Asked Questions:
+Q. Will the published templates be updated in the future?
+A. No new components or features will be added. However, if there are errors in the materials (such as incorrect material names or wrong annotation icons), they will be promptly corrected and updated. If you find any issues while using them, feel free to contact me privately!
+
+Q. Will new templates be released in the future?
+A. Yes, but there is currently no fixed update schedule. The next release could be in a month or six months; this cannot be determined. You are welcome to follow my account for the latest template updates!
+
+Q. Will the terms of use for this template be updated in the future?
+A. Yes, the template usage terms may be updated according to actual needs. You can follow my account to learn about the latest terms of use!
+
+Q. Can you provide the original files of the template?
+A. Sorry, no.
+
+Q. If I want this template to be my exclusive UI, can I buy it?
+A. Sorry, publicly released UI templates cannot be bought out. However, you can hire me to make custom modifications or expansions to this template, turning it into a brand-new UI for exclusive use.
+
+Q. I purchased this UI template on a certain platform / I saw this UI template being sold on a certain platform.
+A. If you purchased this UI template, please leave a negative review and request a refund immediately! This UI template is free and will not be sold through any channel. If you saw this UI template being sold on a platform, please report it immediately and send me a private message. Thank you very much!
+
+Q. Can I hire you to customize a UI?
+A. Always welcome.
